@@ -20,11 +20,11 @@ body {
 
 .container {
    background-color: #b6c8d6;
-   height: 400px;
+   height: 500px;
    width: 300px;
    box-sizing: border-box;
    border-radius: 40px;
-   margin-top: 80px;
+   margin-top: 10px;
   box-shadow: 10px 10px 15px #364265 ;-10px -10px -15px blue;
 }
 
@@ -33,7 +33,7 @@ body {
 font-size: 30px;
 background-color: #ecf0f3;
 box-shadow: 6px 6px 12px rgb(188, 203, 165);
-margin: 45px;
+margin: 40px;
 padding-left: 45px;
 border-radius: 15px;
 }
@@ -41,7 +41,7 @@ border-radius: 15px;
 .name {
     margin: 20px;
     width: 235px;
-    padding: 10px;
+    padding: 15px;
     border-radius: 10px;
     box-shadow: inset 10px 10px 15px #abb5d3,
                 inset -10px -10px 15px white;
@@ -52,7 +52,7 @@ border-radius: 15px;
 .pass{
     margin: 20px;
     width: 235px;
-    padding: 10px;
+    padding: 15px;
     border-radius: 10px;
     box-shadow: inset 10px 10px 15px #a8b0c9,
                 inset -10px -10px 15px white;
@@ -62,7 +62,7 @@ border-radius: 15px;
 
 .btn {
     margin-left: 50px;
-    margin-top: 20px;
+    margin-top: 10px;
     width: 150px;
     padding: 5px;
     border-radius: 10px;
